@@ -40,6 +40,14 @@ Where:
 6. **Plot the Signals:**
    * Use Scilab's plotting commands (`subplot`, `plot`, `xtitle`, `xgrid`) to display message, carrier, and modulated signals.
 
----
+## TABULATION
+<img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/2b771d64-435e-42bf-a42b-678ad10480c1" />
+
 
 ## MODEL GRAPH
+<img width="1761" height="884" alt="image" src="https://github.com/user-attachments/assets/f2c472b7-3f9c-4a97-9578-5b7a42838662" />
+
+## RESULT
+Thus, the phase modulator (PM) signal was successfully generated with SCILAB.
+
+
